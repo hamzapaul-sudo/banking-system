@@ -1,4 +1,4 @@
-# 💳 Modular Banking System
+# Banking System
 
 A production-ready backend banking system built using Spring Boot, Kafka, Docker, and Protobuf — designed for modularity and extensibility.
 
