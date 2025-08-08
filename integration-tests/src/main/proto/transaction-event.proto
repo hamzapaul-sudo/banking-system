@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.hpsudo.protobuf";
+option java_outer_classname = "TransactionEventProto";
+
+message TransactionEvent {
+  int64 accountId = 1;
+  string type = 2;         // DEPOSIT or WITHDRAW
+  double amount = 3;
+  string description = 4;
+  string timestamp = 5;
+}
