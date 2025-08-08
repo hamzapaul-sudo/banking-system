@@ -1,0 +1,4 @@
+/home/hamza/projects/banking-system/integration-tests/src/test/java/AccountConcurrencyIntegrationTest.java
+/home/hamza/projects/banking-system/integration-tests/src/test/java/AccountServiceIntegrationTest.java
+/home/hamza/projects/banking-system/integration-tests/src/test/java/AccountToTransactionIntegrationTest.java
+/home/hamza/projects/banking-system/integration-tests/src/test/java/TransactionServiceIntegrationTest.java

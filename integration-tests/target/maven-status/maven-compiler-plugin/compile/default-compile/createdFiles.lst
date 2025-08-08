@@ -1,0 +1,5 @@
+com/hpsudo/protobuf/TransactionEventProto.class
+com/hpsudo/protobuf/TransactionEvent$Builder.class
+com/hpsudo/protobuf/TransactionEvent.class
+com/hpsudo/protobuf/TransactionEvent$1.class
+com/hpsudo/protobuf/TransactionEventOrBuilder.class
